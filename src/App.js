@@ -18,7 +18,7 @@ function App() {
       <Navbar />
       <Sidebar />
       <Switch>
-        <Route exact path="/E-commerce-React">
+        <Route exact path="/">
           <Home />
         </Route>
         <Route exact path="/about">
