@@ -12,7 +12,7 @@ const Nav = () => {
     <NavContainer>
       <div className="nav-center">
         <div className="nav-header">
-          <Link to="/">
+          <Link to="/E-commerce-React">
             <div className="logo">
           <h1 className="company-logo-1">Furni<span className="company-logo-2">ture</span></h1>
             </div>
